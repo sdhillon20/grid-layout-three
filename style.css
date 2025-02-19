@@ -17,7 +17,8 @@
     grid-column: 1/3;
     grid-row:  3/4;
     background-color :blueviolet;
-    color :pink;
+    color :blue;
+    justify-content: flex-end;
 }
 
 .navigation{
